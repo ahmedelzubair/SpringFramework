@@ -1,2 +1,2 @@
 # SpringFramework
-Testing
+For inializing my Spring Framework projects
